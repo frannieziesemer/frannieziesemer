@@ -1,4 +1,4 @@
-![Frannie ziesemer github page](frances_ziesemer.png)
+![Frannie ziesemer github page](frannie_ziesemer.png)
 <!--
 **frannieziesemer/frannieziesemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
