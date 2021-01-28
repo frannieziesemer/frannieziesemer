@@ -1,4 +1,4 @@
-![](Frannie-Z-left.png)
+![](Frannie-Z.png)
 <!--![](Frances-Ziesemer.png)
 <!--
 **frannieziesemer/frannieziesemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
