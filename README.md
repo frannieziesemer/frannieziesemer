@@ -18,7 +18,10 @@ My current projects are:
 
 
 follow my #100DaysOfCode journey on twitter [@FZiesemer](https://twitter.com/FZiesemer)
+
 check out my profile on [LinkedIn](https://www.linkedin.com/in/frannie-ziesemer/)
+
+send me an email frances.ziesemer@gmail.com
 
 
 <!--- 🔭 I’m currently working on ...
