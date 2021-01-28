@@ -1,20 +1,24 @@
 ![](Frannie-Z-left.png)
 <!--![](Frances-Ziesemer.png)
 <!--
-**frannieziesemer/frannieziesemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**frannieziesemer/frannieziesemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am a Web Developer-in-training focusing at the moment on mastering JavaScript + React and learning how to doucument and test my code. 
+I am a Web Developer-in-training 🏋‍♂️️ focusing at the moment on mastering JavaScript + React.js and all of the other wonderful things that go along. 
 
 
 My current projects are:
-- End-to-end app development with the amazing FrauenLoop program
+- End-to-end web development with the amazing [FrauenLoop](https://www.frauenloop.org/) program
+  - stay tuned...
 - The Odin Project JavaScript Full Stack track
+  - [library](https://frannieziesemer.github.io/library/)
+  - [scissors paper rock](https://frannieziesemer.github.io/rock-paper-scissors/)
+  - [etch-a-sketch](https://frannieziesemer.github.io/etch-a-sketch/)
 - #100DaysOfCode
 
 
 
-follow my #100DaysOfCode journey on twitter @FZiesemer
-check out my profile on LinkedIn
+follow my #100DaysOfCode journey on twitter [@FZiesemer](https://twitter.com/FZiesemer)
+check out my profile on [LinkedIn](https://www.linkedin.com/in/frannie-ziesemer/)
 
 
 <!--- 🔭 I’m currently working on ...
