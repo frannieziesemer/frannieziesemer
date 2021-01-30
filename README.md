@@ -13,7 +13,7 @@ My current projects are:
   - [library](https://frannieziesemer.github.io/library/)
   - [scissors paper rock](https://frannieziesemer.github.io/rock-paper-scissors/)
   - [etch-a-sketch](https://frannieziesemer.github.io/etch-a-sketch/)
-- #100DaysOfCode
+
 
 
 
