@@ -11,10 +11,10 @@ My current projects are:
   - stay tuned...
   
 - The Odin Project JavaScript Full Stack track
-  - restaurant page   <sub>| [live site](https://frannieziesemer.github.io/restaurant-page/) | [git repo](https://github.com/frannieziesemer/restaurant-page) | </sub>
-  - library   | [live site](https://frannieziesemer.github.io/library/) | [git repo](https://github.com/frannieziesemer/library) |
-  - scissors-paper-rock   | [live site](https://frannieziesemer.github.io/rock-paper-scissors/) | [git repo](https://github.com/frannieziesemer/rock-paper-scissors) |
-  - etch-a-sketch   | [live site](https://frannieziesemer.github.io/etch-a-sketch/) | [git repo](https://github.com/frannieziesemer/etch-a-sketch) |
+  - restaurant page   - [live site](https://frannieziesemer.github.io/restaurant-page/) - [git repo](https://github.com/frannieziesemer/restaurant-page) -
+  - library   - [live site](https://frannieziesemer.github.io/library/) - [git repo](https://github.com/frannieziesemer/library) -
+  - scissors-paper-rock   - [live site](https://frannieziesemer.github.io/rock-paper-scissors/) - [git repo](https://github.com/frannieziesemer/rock-paper-scissors) -
+  - etch-a-sketch   - [live site](https://frannieziesemer.github.io/etch-a-sketch/) - [git repo](https://github.com/frannieziesemer/etch-a-sketch) -
 
 
 - [Coding Challenges](https://github.com/frannieziesemer/coding-challenges)
