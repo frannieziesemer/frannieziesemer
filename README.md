@@ -8,7 +8,7 @@ I am a Web Developer-in-training 🏋‍♂️️ focusing at the moment on mast
 
 My current projects are:
 - End-to-end web development with the amazing [FrauenLoop](https://www.frauenloop.org/) program
-  - stay tuned...
+  - work in progress - project status details [here in github repo](https://github.com/frannieziesemer/activ-mates-app)
   
 - The Odin Project JavaScript Full Stack track
   - restaurant page   - [live site](https://frannieziesemer.github.io/restaurant-page/) - [git repo](https://github.com/frannieziesemer/restaurant-page) -
