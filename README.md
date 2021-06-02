@@ -3,7 +3,7 @@
 <!--
 **frannieziesemer/frannieziesemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am a Web Developer-in-training 🏋‍♂️️ focusing at the moment on mastering JavaScript + React.js and all of the other wonderful things that go along. I have also recently started to explore full-stack technologies by building an end-to-end application in Python Flask. Check it out below! 
+Junior Frontend Web Developer 🏋‍♂️️ focusing at the moment on mastering JavaScript + React.js and all of the other wonderful things that go along. I have also recently started to explore full-stack technologies by building an end-to-end application in Python Flask. Check it out below! 
 
 
 My current projects are:
@@ -23,11 +23,8 @@ My current projects are:
 
 
 
-follow my #100DaysOfCode journey on twitter [@FZiesemer](https://twitter.com/FZiesemer)
-
 check out my profile on [LinkedIn](https://www.linkedin.com/in/frannie-ziesemer/)
 
-send me an email frances.ziesemer@gmail.com
 
 
 <!--- 🔭 I’m currently working on ...
